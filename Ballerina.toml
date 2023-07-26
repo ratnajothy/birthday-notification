@@ -1,0 +1,12 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.3.1"
+  export = ["gsheet_row_update_to_gmail"]
+  icon = "docs/icon.png"
+  keywords = ["Kind/Sample","Type/Webhook","Category/Integration","Internal/http"]
+  name = "gsheet_row_update_to_gmail"
+  org = "ratnajothy"
+  version = "3.1.0"
+
